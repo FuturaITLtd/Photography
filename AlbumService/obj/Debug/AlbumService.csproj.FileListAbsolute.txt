@@ -1,0 +1,15 @@
+C:\Coding Projects\Projects\Photography\AlbumService\bin\Mapping\Album.hbm.xml
+C:\Coding Projects\Projects\Photography\AlbumService\bin\hibernate.cfg.xml
+C:\Coding Projects\Projects\Photography\AlbumService\bin\AlbumService.dll
+C:\Coding Projects\Projects\Photography\AlbumService\bin\AlbumService.pdb
+C:\Coding Projects\Projects\Photography\AlbumService\bin\NHibernate.dll
+C:\Coding Projects\Projects\Photography\AlbumService\bin\Iesi.Collections.dll
+C:\Coding Projects\Projects\Photography\AlbumService\bin\NHibernateDAL.pdb
+C:\Coding Projects\Projects\Photography\AlbumService\bin\NHibernate.pdb
+C:\Coding Projects\Projects\Photography\AlbumService\bin\NHibernate.xml
+C:\Coding Projects\Projects\Photography\AlbumService\bin\Iesi.Collections.pdb
+C:\Coding Projects\Projects\Photography\AlbumService\bin\Iesi.Collections.xml
+C:\Coding Projects\Projects\Photography\AlbumService\obj\Debug\ResolveAssemblyReference.cache
+C:\Coding Projects\Projects\Photography\AlbumService\obj\Debug\AlbumService.dll
+C:\Coding Projects\Projects\Photography\AlbumService\obj\Debug\AlbumService.pdb
+C:\Coding Projects\Projects\Photography\AlbumService\bin\NHibernateDAL.dll

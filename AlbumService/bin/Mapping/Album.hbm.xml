@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- hbm - NHibernate mapping file. Defines the relationships between tables e.g. 1-1 1-many -->
+<!-- Click on schemas and configure to use the NHibernate schema -->
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="NHibernateDAL"
+                   namespace="Photography.NHibernateDAL.Domain">
+  <class name ="Album">
+    <!-- generator tag - Auto generate ID -->
+    <id name="Id">
+      <generator class ="guid"></generator>
+    </id>
+    <property name ="Name" />
+    <property name ="Genre" />
+    <property name ="CreationDate" />  
+  </class>
+</hibernate-mapping>
