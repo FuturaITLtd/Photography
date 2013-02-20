@@ -1,5 +1,6 @@
 C:\Coding Projects\Projects\Photography\NHibernateDAL\bin\Debug\Mapping\Album.hbm.xml
 C:\Coding Projects\Projects\Photography\NHibernateDAL\bin\Debug\hibernate.cfg.xml
+C:\Coding Projects\Projects\Photography\NHibernateDAL\bin\Debug\NHibernateDAL.dll
 C:\Coding Projects\Projects\Photography\NHibernateDAL\bin\Debug\NHibernateDAL.pdb
 C:\Coding Projects\Projects\Photography\NHibernateDAL\bin\Debug\Iesi.Collections.dll
 C:\Coding Projects\Projects\Photography\NHibernateDAL\bin\Debug\NHibernate.dll
@@ -8,6 +9,5 @@ C:\Coding Projects\Projects\Photography\NHibernateDAL\bin\Debug\Iesi.Collections
 C:\Coding Projects\Projects\Photography\NHibernateDAL\bin\Debug\NHibernate.pdb
 C:\Coding Projects\Projects\Photography\NHibernateDAL\bin\Debug\NHibernate.xml
 C:\Coding Projects\Projects\Photography\NHibernateDAL\obj\Debug\ResolveAssemblyReference.cache
-C:\Coding Projects\Projects\Photography\NHibernateDAL\obj\Debug\NHibernateDAL.pdb
-C:\Coding Projects\Projects\Photography\NHibernateDAL\bin\Debug\NHibernateDAL.dll
 C:\Coding Projects\Projects\Photography\NHibernateDAL\obj\Debug\NHibernateDAL.dll
+C:\Coding Projects\Projects\Photography\NHibernateDAL\obj\Debug\NHibernateDAL.pdb
