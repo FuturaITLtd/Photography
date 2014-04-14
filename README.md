@@ -1,4 +1,4 @@
 Photography
 ===========
 
-Photography web service test - NHibernate, WCF Services and Specflow
+Photography web service test - NHibernate, WCF Services, Specflow and written in C#
